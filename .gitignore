@@ -25,3 +25,10 @@ db.sqlite3
 
 # Migrations cache
 *.log
+
+
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
